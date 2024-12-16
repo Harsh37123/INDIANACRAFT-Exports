@@ -25,9 +25,8 @@ button{
     margin-top: 10px;
     transition: 0.20s;
     cursor: pointer;
-    
 }
-div{
+.buttons{
     float: right;
 }
 button:hover{
@@ -46,18 +45,4 @@ button:active{
     margin-left: 20px;
     margin-top: 10px;
 }
-p{
-    color: aliceblue;
-    display: block;
-}
-.author,
-.birth{
-    color: aliceblue;
-    display: inline-block;
-}
-footer{
-    background-color: hsl(0, 0%, 100%);
-    padding-left: 455px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
+
